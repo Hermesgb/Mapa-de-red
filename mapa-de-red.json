@@ -3,7 +3,7 @@
         "alumno": 1,
         "nombre": "PC-Jaime",
         "ip": "192.168.1.52",
-        "password": "MTGpCD",
+        "password": "4jwMiK",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -11,13 +11,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 2,
         "nombre": "PC-Vivi",
         "ip": "192.168.1.53",
-        "password": "hfshgd",
+        "password": "hUU5Mb",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -25,13 +26,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 3,
         "nombre": "PC-Chris",
         "ip": "192.168.1.54",
-        "password": "QoXtIp",
+        "password": "jugNqB",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -39,13 +41,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 4,
         "nombre": "PC-Cristian",
         "ip": "192.168.1.55",
-        "password": "CTayoP",
+        "password": "6IRbTu",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -53,13 +56,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 5,
         "nombre": "PC-Yessi",
         "ip": "192.168.1.56",
-        "password": "imFzOv",
+        "password": "lew8Ww",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -67,13 +71,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 6,
         "nombre": "PC-Debbie",
         "ip": "192.168.1.57",
-        "password": "nQCclC",
+        "password": "p3Z6eT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -81,13 +86,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 7,
         "nombre": "PC-Nico",
         "ip": "192.168.1.58",
-        "password": "DMellq",
+        "password": "2RNKmL",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -95,13 +101,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 8,
         "nombre": "PC-Hermes",
         "ip": "192.168.1.59",
-        "password": "DRNfcu",
+        "password": "1rsnAM",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -109,13 +116,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 9,
         "nombre": "PC-StabboDaKrabbo",
         "ip": "192.168.1.60",
-        "password": "uA77Ml",
+        "password": "p6Mt7D",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -123,13 +131,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 10,
         "nombre": "PC-JuanRa",
         "ip": "192.168.1.61",
-        "password": "0fiqlT",
+        "password": "zfO6im",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -137,13 +146,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 11,
         "nombre": "PC-Aarón",
         "ip": "192.168.1.62",
-        "password": "h9kO3L",
+        "password": "26FFWK",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -151,13 +161,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 12,
         "nombre": "PC-Abel (given name)",
         "ip": "192.168.1.63",
-        "password": "bjM8kt",
+        "password": "xiak6K",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -165,13 +176,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 13,
         "nombre": "PC-Abelardo",
         "ip": "192.168.1.64",
-        "password": "wgRqtE",
+        "password": "nCKFSb",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -179,13 +191,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 14,
         "nombre": "PC-Abraham (given name)",
         "ip": "192.168.1.65",
-        "password": "M0yAqN",
+        "password": "KTlqoj",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -193,13 +206,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 15,
         "nombre": "PC-Abundio",
         "ip": "192.168.1.66",
-        "password": "OmpYlX",
+        "password": "uCEcW4",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -207,13 +221,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 16,
         "nombre": "PC-Adalberto",
         "ip": "192.168.1.67",
-        "password": "OrAjCe",
+        "password": "7UIAdJ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -221,13 +236,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 17,
         "nombre": "PC-Adan (given name)",
         "ip": "192.168.1.68",
-        "password": "qR1Kq1",
+        "password": "2bg6aQ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -235,13 +251,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 18,
         "nombre": "PC-Ademar",
         "ip": "192.168.1.69",
-        "password": "cIgl9m",
+        "password": "7zBLeg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -249,13 +266,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 19,
         "nombre": "PC-Adrià",
         "ip": "192.168.1.70",
-        "password": "nIaTnH",
+        "password": "hsyFvK",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -263,13 +281,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 20,
         "nombre": "PC-Adrian",
         "ip": "192.168.1.71",
-        "password": "gsvWIv",
+        "password": "3Fx5HH",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -277,13 +296,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 21,
         "nombre": "PC-Adriano",
         "ip": "192.168.1.72",
-        "password": "6rs4F1",
+        "password": "B8In0I",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -291,13 +311,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 22,
         "nombre": "PC-Afonso",
         "ip": "192.168.1.73",
-        "password": "aHYNgR",
+        "password": "RHV4Qa",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -305,13 +326,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 23,
         "nombre": "PC-Agapito",
         "ip": "192.168.1.74",
-        "password": "Q81OQA",
+        "password": "6Mndtg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -319,13 +341,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 24,
         "nombre": "PC-Agripino",
         "ip": "192.168.1.75",
-        "password": "1QrfCT",
+        "password": "Pn8G5h",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -333,13 +356,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 25,
         "nombre": "PC-Agustín",
         "ip": "192.168.1.76",
-        "password": "GIlA5s",
+        "password": "3Tn367",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -347,13 +371,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 26,
         "nombre": "PC-Alberto",
         "ip": "192.168.1.77",
-        "password": "MTQxLB",
+        "password": "0MHY21",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -361,13 +386,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 27,
         "nombre": "PC-Alejandro",
         "ip": "192.168.1.78",
-        "password": "GdRSQV",
+        "password": "H7B97R",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -375,13 +401,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 28,
         "nombre": "PC-Alfredo",
         "ip": "192.168.1.79",
-        "password": "yMEshn",
+        "password": "RNVRUg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -389,13 +416,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 29,
         "nombre": "PC-Alonso",
         "ip": "192.168.1.80",
-        "password": "nOGjJT",
+        "password": "B0ARQY",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -403,13 +431,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 30,
         "nombre": "PC-Alphons",
         "ip": "192.168.1.81",
-        "password": "4a2lJp",
+        "password": "ucfWli",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -417,13 +446,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 31,
         "nombre": "PC-Álvaro",
         "ip": "192.168.1.82",
-        "password": "JIWa2n",
+        "password": "0Jq8rP",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -431,13 +461,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 32,
         "nombre": "PC-Amado",
         "ip": "192.168.1.83",
-        "password": "KwdCmz",
+        "password": "Td9CgN",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -445,13 +476,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 33,
         "nombre": "PC-Amador (name)",
         "ip": "192.168.1.84",
-        "password": "1gmmgo",
+        "password": "RfO3V1",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -459,13 +491,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 34,
         "nombre": "PC-Amancio",
         "ip": "192.168.1.85",
-        "password": "Am94v6",
+        "password": "gOI8y3",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -473,13 +506,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 35,
         "nombre": "PC-Americo",
         "ip": "192.168.1.86",
-        "password": "YoEiJC",
+        "password": "JXQt9N",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -487,13 +521,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 36,
         "nombre": "PC-Amílcar",
         "ip": "192.168.1.87",
-        "password": "VebtFN",
+        "password": "6pXYd4",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -501,13 +536,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 37,
         "nombre": "PC-Anacleto",
         "ip": "192.168.1.88",
-        "password": "f7t7w2",
+        "password": "IinjjB",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -515,13 +551,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 38,
         "nombre": "PC-Andres (name)",
         "ip": "192.168.1.89",
-        "password": "3MOeA8",
+        "password": "bTExu5",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -529,13 +566,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 39,
         "nombre": "PC-Angel (given name)",
         "ip": "192.168.1.90",
-        "password": "RLgEXY",
+        "password": "C5y5gv",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -543,13 +581,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 40,
         "nombre": "PC-José Ángel (given name)",
         "ip": "192.168.1.91",
-        "password": "qmzjoj",
+        "password": "c4kydo",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -557,13 +596,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 41,
         "nombre": "PC-Aníbal",
         "ip": "192.168.1.92",
-        "password": "L9PXFE",
+        "password": "X1GlXD",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -571,13 +611,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 42,
         "nombre": "PC-Antero",
         "ip": "192.168.1.93",
-        "password": "pKSavh",
+        "password": "S02A5K",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -585,13 +626,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 43,
         "nombre": "PC-Antonin (name)",
         "ip": "192.168.1.94",
-        "password": "ZHXeN5",
+        "password": "ZCQpBg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -599,13 +641,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 44,
         "nombre": "PC-Antonio",
         "ip": "192.168.1.95",
-        "password": "eE3YVW",
+        "password": "IkigwC",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -613,13 +656,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 45,
         "nombre": "PC-Apolinar",
         "ip": "192.168.1.96",
-        "password": "Nu6yss",
+        "password": "QuUWaf",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -627,13 +671,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 46,
         "nombre": "PC-Apolinario",
         "ip": "192.168.1.97",
-        "password": "Ehbn4h",
+        "password": "XceApH",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -641,13 +686,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 47,
         "nombre": "PC-Arcadio",
         "ip": "192.168.1.98",
-        "password": "aFuQih",
+        "password": "2ZnNct",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -655,13 +701,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 48,
         "nombre": "PC-Armando (given name)",
         "ip": "192.168.1.99",
-        "password": "Bgx9h8",
+        "password": "dbXxSR",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -669,13 +716,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 49,
         "nombre": "PC-Arnaldo",
         "ip": "192.168.1.100",
-        "password": "wHa2E6",
+        "password": "ENA4OS",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -683,13 +731,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 50,
         "nombre": "PC-Arnulfo",
         "ip": "192.168.1.101",
-        "password": "2rhs4j",
+        "password": "UWuHdZ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -697,13 +746,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 51,
         "nombre": "PC-Arsenio",
         "ip": "192.168.1.102",
-        "password": "Hf44us",
+        "password": "kdDMYj",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -711,13 +761,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 52,
         "nombre": "PC-Arturo",
         "ip": "192.168.1.103",
-        "password": "glc3mx",
+        "password": "uSZ6FW",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -725,13 +776,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 53,
         "nombre": "PC-Atanasio",
         "ip": "192.168.1.104",
-        "password": "9rMuLf",
+        "password": "qeS1JJ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -739,13 +791,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 54,
         "nombre": "PC-Augusto",
         "ip": "192.168.1.105",
-        "password": "HUaSRj",
+        "password": "im7LyR",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -753,13 +806,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 55,
         "nombre": "PC-Aurelio",
         "ip": "192.168.1.106",
-        "password": "0cHdqB",
+        "password": "FVTEOQ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -767,13 +821,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 56,
         "nombre": "PC-Aznar",
         "ip": "192.168.1.107",
-        "password": "QXAIyW",
+        "password": "Tp1qOb",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -781,13 +836,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 57,
         "nombre": "PC-B",
         "ip": "192.168.1.108",
-        "password": "ZMoIZp",
+        "password": "B5awQ9",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -795,13 +851,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 58,
         "nombre": "PC-Baldomero",
         "ip": "192.168.1.109",
-        "password": "1npeDR",
+        "password": "JGocoz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -809,13 +866,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 59,
         "nombre": "PC-Balthazar (given name)",
         "ip": "192.168.1.110",
-        "password": "cHQ319",
+        "password": "ZIcuX7",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -823,13 +881,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 60,
         "nombre": "PC-Bartolo (given name)",
         "ip": "192.168.1.111",
-        "password": "Hs8HrZ",
+        "password": "KpQjAq",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -837,13 +896,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 61,
         "nombre": "PC-Bartolomé",
         "ip": "192.168.1.112",
-        "password": "HiGg1O",
+        "password": "QjlJ0n",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -851,13 +911,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 62,
         "nombre": "PC-Benito (name)",
         "ip": "192.168.1.113",
-        "password": "H245UY",
+        "password": "LUkEPz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -865,13 +926,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 63,
         "nombre": "PC-Benjamin (name)",
         "ip": "192.168.1.114",
-        "password": "uXMxVq",
+        "password": "9Lo6Qw",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -879,13 +941,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 64,
         "nombre": "PC-Bernabé",
         "ip": "192.168.1.115",
-        "password": "aytSVZ",
+        "password": "B5KO2N",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -893,13 +956,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 65,
         "nombre": "PC-Bernardo",
         "ip": "192.168.1.116",
-        "password": "COsSz3",
+        "password": "dpqdF9",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -907,13 +971,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 66,
         "nombre": "PC-Beto",
         "ip": "192.168.1.117",
-        "password": "y6mzxm",
+        "password": "Vi876i",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -921,13 +986,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 67,
         "nombre": "PC-Bonifacio (name)",
         "ip": "192.168.1.118",
-        "password": "UgqyZf",
+        "password": "vlUU9J",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -935,13 +1001,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 68,
         "nombre": "PC-Borja (name)",
         "ip": "192.168.1.119",
-        "password": "gJRDP9",
+        "password": "v1lPXm",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -949,13 +1016,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 69,
         "nombre": "PC-Braulio",
         "ip": "192.168.1.120",
-        "password": "LW6It6",
+        "password": "dtDWIU",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -963,13 +1031,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 70,
         "nombre": "PC-Brigido",
         "ip": "192.168.1.121",
-        "password": "ejqOC4",
+        "password": "MGD8fT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -977,13 +1046,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 71,
         "nombre": "PC-Bruno (name)",
         "ip": "192.168.1.122",
-        "password": "G06Yxs",
+        "password": "NsdGuA",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -991,13 +1061,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 72,
         "nombre": "PC-C",
         "ip": "192.168.1.123",
-        "password": "SjXVmw",
+        "password": "X9p6Qc",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1005,13 +1076,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 73,
         "nombre": "PC-Calixto",
         "ip": "192.168.1.124",
-        "password": "klIjU2",
+        "password": "ZxFq3G",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1019,13 +1091,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 74,
         "nombre": "PC-Camilo",
         "ip": "192.168.1.125",
-        "password": "AnNEol",
+        "password": "lkk8dI",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1033,13 +1106,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 75,
         "nombre": "PC-Carlito (name)",
         "ip": "192.168.1.126",
-        "password": "wyWWOn",
+        "password": "2UO1aC",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1047,13 +1121,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 76,
         "nombre": "PC-Carlo (name)",
         "ip": "192.168.1.127",
-        "password": "S2plig",
+        "password": "o3Em7L",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1061,13 +1136,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 77,
         "nombre": "PC-Carlos (given name)",
         "ip": "192.168.1.128",
-        "password": "N8zOMA",
+        "password": "opnKLd",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1075,13 +1151,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 78,
         "nombre": "PC-Carlos Alberto",
         "ip": "192.168.1.129",
-        "password": "3VITE1",
+        "password": "aaE2GX",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1089,13 +1166,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 79,
         "nombre": "PC-Carlos Eduardo",
         "ip": "192.168.1.130",
-        "password": "UP1r12",
+        "password": "S5KVN5",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1103,13 +1181,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 80,
         "nombre": "PC-Carmelo",
         "ip": "192.168.1.131",
-        "password": "d6MluR",
+        "password": "AAUF0a",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1117,13 +1196,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 81,
         "nombre": "PC-Casimiro (given name)",
         "ip": "192.168.1.132",
-        "password": "2uBmNk",
+        "password": "1cryRT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1131,13 +1211,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 82,
         "nombre": "PC-Cayetano",
         "ip": "192.168.1.133",
-        "password": "zLs72v",
+        "password": "UcCf11",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1145,13 +1226,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 83,
         "nombre": "PC-Cecilio",
         "ip": "192.168.1.134",
-        "password": "smNx8z",
+        "password": "zuw2bn",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1159,13 +1241,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 84,
         "nombre": "PC-Ceferino",
         "ip": "192.168.1.135",
-        "password": "lWccyh",
+        "password": "ePpgKD",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1173,13 +1256,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 85,
         "nombre": "PC-Celedonio",
         "ip": "192.168.1.136",
-        "password": "GdsryV",
+        "password": "UqlETT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1187,13 +1271,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 86,
         "nombre": "PC-Cesar",
         "ip": "192.168.1.137",
-        "password": "uglgtd",
+        "password": "Uf6Bpy",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1201,13 +1286,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 87,
         "nombre": "PC-Cesario",
         "ip": "192.168.1.138",
-        "password": "1KUalj",
+        "password": "zD2mku",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1215,13 +1301,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 88,
         "nombre": "PC-Charli (name)",
         "ip": "192.168.1.139",
-        "password": "CmHzvQ",
+        "password": "94EaIk",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1229,13 +1316,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 89,
         "nombre": "PC-Cipriano (given name)",
         "ip": "192.168.1.140",
-        "password": "fr14Wo",
+        "password": "04ClRW",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1243,13 +1331,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 90,
         "nombre": "PC-Claudio",
         "ip": "192.168.1.141",
-        "password": "HXbgMg",
+        "password": "yK0REZ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1257,13 +1346,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 91,
         "nombre": "PC-Clemente",
         "ip": "192.168.1.142",
-        "password": "YXaOz9",
+        "password": "ALDRCh",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1271,13 +1361,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 92,
         "nombre": "PC-Climaco",
         "ip": "192.168.1.143",
-        "password": "XNtrRC",
+        "password": "UihyxA",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1285,13 +1376,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 93,
         "nombre": "PC-Cornelio",
         "ip": "192.168.1.144",
-        "password": "YTUTAH",
+        "password": "O1nPJh",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1299,13 +1391,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 94,
         "nombre": "PC-Corsino",
         "ip": "192.168.1.145",
-        "password": "7FA43e",
+        "password": "hhmm4y",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1313,13 +1406,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 95,
         "nombre": "PC-Crisologo",
         "ip": "192.168.1.146",
-        "password": "Vr3wmw",
+        "password": "jHnFpM",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1327,13 +1421,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 96,
         "nombre": "PC-Cristhian",
         "ip": "192.168.1.147",
-        "password": "1Lj2Mu",
+        "password": "bukyXW",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1341,13 +1436,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 97,
         "nombre": "PC-Cristian",
         "ip": "192.168.1.148",
-        "password": "CQHotm",
+        "password": "0ETIW4",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1355,13 +1451,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 98,
         "nombre": "PC-Cristóbal",
         "ip": "192.168.1.149",
-        "password": "eYDj7S",
+        "password": "hbvaP7",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1369,13 +1466,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 99,
         "nombre": "PC-Cuauhtémoc",
         "ip": "192.168.1.150",
-        "password": "FmM736",
+        "password": "DWu0tL",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1383,13 +1481,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 100,
         "nombre": "PC-D",
         "ip": "192.168.1.151",
-        "password": "ZgwXe1",
+        "password": "pGQUKJ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1397,13 +1496,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 101,
         "nombre": "PC-Danilo",
         "ip": "192.168.1.152",
-        "password": "X37LmF",
+        "password": "JEXBHF",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1411,13 +1511,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 102,
         "nombre": "PC-Dámaso",
         "ip": "192.168.1.153",
-        "password": "YQEryD",
+        "password": "Id1ESZ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1425,13 +1526,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 103,
         "nombre": "PC-Damián",
         "ip": "192.168.1.154",
-        "password": "Uf8Dzm",
+        "password": "ZXhoLf",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1439,13 +1541,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 104,
         "nombre": "PC-Daniel (given name)",
         "ip": "192.168.1.155",
-        "password": "dpguFy",
+        "password": "fI5y1U",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1453,13 +1556,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 105,
         "nombre": "PC-Dante (name)",
         "ip": "192.168.1.156",
-        "password": "F3X3DZ",
+        "password": "kogcH0",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1467,13 +1571,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 106,
         "nombre": "PC-Dario",
         "ip": "192.168.1.157",
-        "password": "Hcplj6",
+        "password": "3NoQRY",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1481,13 +1586,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 107,
         "nombre": "PC-David (name)",
         "ip": "192.168.1.158",
-        "password": "QkpGBE",
+        "password": "7uvEmp",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1495,13 +1601,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 108,
         "nombre": "PC-Delfino (name)",
         "ip": "192.168.1.159",
-        "password": "QbOMfk",
+        "password": "4ef2if",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1509,13 +1616,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 109,
         "nombre": "PC-Diego",
         "ip": "192.168.1.160",
-        "password": "yDNg9r",
+        "password": "FLOK2i",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1523,13 +1631,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 110,
         "nombre": "PC-Diosdado",
         "ip": "192.168.1.161",
-        "password": "rtFTy8",
+        "password": "0I4c2T",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1537,13 +1646,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 111,
         "nombre": "PC-Domingo (name)",
         "ip": "192.168.1.162",
-        "password": "A0dGve",
+        "password": "jMGuiS",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1551,13 +1661,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 112,
         "nombre": "PC-Donaldo",
         "ip": "192.168.1.163",
-        "password": "SNMDdE",
+        "password": "NMlUmH",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1565,13 +1676,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 113,
         "nombre": "PC-E",
         "ip": "192.168.1.164",
-        "password": "tQoYsp",
+        "password": "Jl1xkW",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1579,13 +1691,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 114,
         "nombre": "PC-Edgardo",
         "ip": "192.168.1.165",
-        "password": "ObbHNK",
+        "password": "jlTSAz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1593,13 +1706,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 115,
         "nombre": "PC-Edmundo",
         "ip": "192.168.1.166",
-        "password": "0MznvE",
+        "password": "mTUuPX",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1607,13 +1721,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 116,
         "nombre": "PC-Eduardo",
         "ip": "192.168.1.167",
-        "password": "jlweas",
+        "password": "buzzPY",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1621,13 +1736,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 117,
         "nombre": "PC-Efraín",
         "ip": "192.168.1.168",
-        "password": "cUKZhg",
+        "password": "pBq0pb",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1635,13 +1751,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 118,
         "nombre": "PC-Eladio",
         "ip": "192.168.1.169",
-        "password": "SgtGIh",
+        "password": "T1ZcIt",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1649,13 +1766,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 119,
         "nombre": "PC-Elbio",
         "ip": "192.168.1.170",
-        "password": "40odrj",
+        "password": "gO8FS0",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1663,13 +1781,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 120,
         "nombre": "PC-Elias",
         "ip": "192.168.1.171",
-        "password": "1DmISG",
+        "password": "MSa2ah",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1677,13 +1796,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 121,
         "nombre": "PC-Eligio",
         "ip": "192.168.1.172",
-        "password": "d0fsSF",
+        "password": "HKHjFB",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1691,13 +1811,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 122,
         "nombre": "PC-Eliseo",
         "ip": "192.168.1.173",
-        "password": "q21eri",
+        "password": "acCsL2",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1705,13 +1826,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 123,
         "nombre": "PC-Eloy (given name)",
         "ip": "192.168.1.174",
-        "password": "HnAIQY",
+        "password": "aa0P7B",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1719,13 +1841,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 124,
         "nombre": "PC-Elpidio",
         "ip": "192.168.1.175",
-        "password": "3T92br",
+        "password": "1FG2DH",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1733,13 +1856,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 125,
         "nombre": "PC-Emanuel (name)",
         "ip": "192.168.1.176",
-        "password": "GKYdKK",
+        "password": "6NLbMz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1747,13 +1871,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 126,
         "nombre": "PC-Emiliano",
         "ip": "192.168.1.177",
-        "password": "6jKJCu",
+        "password": "KiMFoO",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1761,13 +1886,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 127,
         "nombre": "PC-Emilio (given name)",
         "ip": "192.168.1.178",
-        "password": "MsRtTt",
+        "password": "reK9rf",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1775,13 +1901,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 128,
         "nombre": "PC-Enrique",
         "ip": "192.168.1.179",
-        "password": "3savwS",
+        "password": "gkG6Qf",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1789,13 +1916,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 129,
         "nombre": "PC-Enzo",
         "ip": "192.168.1.180",
-        "password": "WiOHBk",
+        "password": "kN3n26",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1803,13 +1931,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 130,
         "nombre": "PC-Ernesto",
         "ip": "192.168.1.181",
-        "password": "GnOWdI",
+        "password": "gh0bkf",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1817,13 +1946,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 131,
         "nombre": "PC-Estanislau",
         "ip": "192.168.1.182",
-        "password": "ImNVi5",
+        "password": "i13kZV",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1831,13 +1961,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 132,
         "nombre": "PC-Esteban",
         "ip": "192.168.1.183",
-        "password": "pJJTAL",
+        "password": "0oovlm",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1845,13 +1976,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 133,
         "nombre": "PC-Esterio",
         "ip": "192.168.1.184",
-        "password": "5hK28t",
+        "password": "vML7qu",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1859,13 +1991,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 134,
         "nombre": "PC-Eugenio",
         "ip": "192.168.1.185",
-        "password": "y0PJcp",
+        "password": "pZgC5S",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1873,13 +2006,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 135,
         "nombre": "PC-Ezequiel",
         "ip": "192.168.1.186",
-        "password": "iG18OQ",
+        "password": "lPiuLw",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1887,13 +2021,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 136,
         "nombre": "PC-F",
         "ip": "192.168.1.187",
-        "password": "lY9MRU",
+        "password": "ogSI8K",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1901,13 +2036,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 137,
         "nombre": "PC-Fabio",
         "ip": "192.168.1.188",
-        "password": "jGobhO",
+        "password": "Dkj7eu",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1915,13 +2051,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 138,
         "nombre": "PC-Fabricio",
         "ip": "192.168.1.189",
-        "password": "nUGK4B",
+        "password": "Pfm5Wa",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1929,13 +2066,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 139,
         "nombre": "PC-Faustino (name)",
         "ip": "192.168.1.190",
-        "password": "U4zfCs",
+        "password": "p2Kz2C",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1943,13 +2081,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 140,
         "nombre": "PC-Fausto",
         "ip": "192.168.1.191",
-        "password": "pddMj8",
+        "password": "gDquiA",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1957,13 +2096,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 141,
         "nombre": "PC-Federico",
         "ip": "192.168.1.192",
-        "password": "7frtax",
+        "password": "d5h5gr",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1971,13 +2111,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 142,
         "nombre": "PC-Feliciano (name)",
         "ip": "192.168.1.193",
-        "password": "u33S1U",
+        "password": "2N02LV",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1985,13 +2126,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 143,
         "nombre": "PC-Felipe",
         "ip": "192.168.1.194",
-        "password": "oS1sm4",
+        "password": "Ul2tWK",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -1999,13 +2141,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 144,
         "nombre": "PC-Felix (name)",
         "ip": "192.168.1.195",
-        "password": "6n9YrT",
+        "password": "l3WWUX",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2013,13 +2156,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 145,
         "nombre": "PC-Fermin (name)",
         "ip": "192.168.1.196",
-        "password": "oNvGxg",
+        "password": "PDoZr0",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2027,13 +2171,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 146,
         "nombre": "PC-Fernando",
         "ip": "192.168.1.197",
-        "password": "kcM4zs",
+        "password": "rrsn7e",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2041,13 +2186,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 147,
         "nombre": "PC-Fernando José",
         "ip": "192.168.1.198",
-        "password": "RxxJSu",
+        "password": "zbAWhg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2055,13 +2201,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 148,
         "nombre": "PC-Fidel (given name)",
         "ip": "192.168.1.199",
-        "password": "pMTl60",
+        "password": "MtwpTl",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2069,13 +2216,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 149,
         "nombre": "PC-Filemón",
         "ip": "192.168.1.200",
-        "password": "NCb16R",
+        "password": "KG1WHt",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2083,13 +2231,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 150,
         "nombre": "PC-Filomeno",
         "ip": "192.168.1.201",
-        "password": "Zg6rUO",
+        "password": "YlKxwj",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2097,13 +2246,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 151,
         "nombre": "PC-Flavio (name)",
         "ip": "192.168.1.202",
-        "password": "jYrreW",
+        "password": "kJ764u",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2111,13 +2261,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 152,
         "nombre": "PC-Florencio",
         "ip": "192.168.1.203",
-        "password": "89vgKd",
+        "password": "P688od",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2125,13 +2276,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 153,
         "nombre": "PC-Florentin",
         "ip": "192.168.1.204",
-        "password": "mH0VLi",
+        "password": "YOxICq",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2139,13 +2291,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 154,
         "nombre": "PC-Floriano",
         "ip": "192.168.1.205",
-        "password": "ZVhy4C",
+        "password": "5Eoj90",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2153,13 +2306,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 155,
         "nombre": "PC-Francisco",
         "ip": "192.168.1.206",
-        "password": "h18Y9Q",
+        "password": "R5vev6",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2167,13 +2321,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 156,
         "nombre": "PC-Fulgencio",
         "ip": "192.168.1.207",
-        "password": "3d61Sp",
+        "password": "GEpVa1",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2181,13 +2336,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 157,
         "nombre": "PC-G",
         "ip": "192.168.1.208",
-        "password": "QZrrAT",
+        "password": "DKL4L2",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2195,13 +2351,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 158,
         "nombre": "PC-Gabriel (given name)",
         "ip": "192.168.1.209",
-        "password": "dSy3NB",
+        "password": "wg2S1J",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2209,13 +2366,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 159,
         "nombre": "PC-Gamaliel (disambiguation)",
         "ip": "192.168.1.210",
-        "password": "U9ghap",
+        "password": "yIzvR9",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2223,13 +2381,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 160,
         "nombre": "PC-Gaspar",
         "ip": "192.168.1.211",
-        "password": "R6slrF",
+        "password": "pIBcMB",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2237,13 +2396,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 161,
         "nombre": "PC-Gavino",
         "ip": "192.168.1.212",
-        "password": "lDrW6v",
+        "password": "vXRLSG",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2251,13 +2411,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 162,
         "nombre": "PC-Genaro (given name)",
         "ip": "192.168.1.213",
-        "password": "0xTeoq",
+        "password": "RcxIg5",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2265,13 +2426,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 163,
         "nombre": "PC-Genovevo",
         "ip": "192.168.1.214",
-        "password": "5XPO7U",
+        "password": "8TrPfF",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2279,13 +2441,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 164,
         "nombre": "PC-Gerardo",
         "ip": "192.168.1.215",
-        "password": "uRIFdy",
+        "password": "MDD7iL",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2293,13 +2456,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 165,
         "nombre": "PC-Germán",
         "ip": "192.168.1.216",
-        "password": "H2iDjX",
+        "password": "sF8kpz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2307,13 +2471,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 166,
         "nombre": "PC-Geronimo (name)",
         "ip": "192.168.1.217",
-        "password": "JJJu59",
+        "password": "3EpyRw",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2321,13 +2486,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 167,
         "nombre": "PC-Gilberto",
         "ip": "192.168.1.218",
-        "password": "A32yt5",
+        "password": "wAsOXv",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2335,13 +2501,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 168,
         "nombre": "PC-Ginés",
         "ip": "192.168.1.219",
-        "password": "LnR8Tb",
+        "password": "Vr0VGl",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2349,13 +2516,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 169,
         "nombre": "PC-Gonzalo (name)",
         "ip": "192.168.1.220",
-        "password": "49ADe7",
+        "password": "vSbyxk",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2363,13 +2531,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 170,
         "nombre": "PC-Graciano (disambiguation)",
         "ip": "192.168.1.221",
-        "password": "d7YJAW",
+        "password": "INi0q7",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2377,13 +2546,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 171,
         "nombre": "PC-Gregorio",
         "ip": "192.168.1.222",
-        "password": "XCmrhG",
+        "password": "j8DKb3",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2391,13 +2561,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 172,
         "nombre": "PC-Guido",
         "ip": "192.168.1.223",
-        "password": "OimsEe",
+        "password": "Z7npMo",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2405,13 +2576,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 173,
         "nombre": "PC-Guillermo",
         "ip": "192.168.1.224",
-        "password": "3ryhZj",
+        "password": "hHVfmE",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2419,13 +2591,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 174,
         "nombre": "PC-Gustavo",
         "ip": "192.168.1.225",
-        "password": "zNoHl2",
+        "password": "oS01ZH",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2433,13 +2606,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 175,
         "nombre": "PC-Gutierre",
         "ip": "192.168.1.226",
-        "password": "AXI0Ck",
+        "password": "pINaIz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2447,13 +2621,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 176,
         "nombre": "PC-H",
         "ip": "192.168.1.227",
-        "password": "RpWQTH",
+        "password": "ggV2gx",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2461,13 +2636,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 177,
         "nombre": "PC-Hector (given name)",
         "ip": "192.168.1.228",
-        "password": "lDgcu6",
+        "password": "1X4n4i",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2475,13 +2651,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 178,
         "nombre": "PC-Heriberto",
         "ip": "192.168.1.229",
-        "password": "pOKVOf",
+        "password": "f3BIpV",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2489,13 +2666,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 179,
         "nombre": "PC-Herminio",
         "ip": "192.168.1.230",
-        "password": "riXmuC",
+        "password": "hgnut7",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2503,13 +2681,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 180,
         "nombre": "PC-Hermogenes",
         "ip": "192.168.1.231",
-        "password": "Kmkdoy",
+        "password": "5KZDyl",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2517,13 +2696,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 181,
         "nombre": "PC-Hernán",
         "ip": "192.168.1.232",
-        "password": "383yjy",
+        "password": "XFtzKI",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2531,13 +2711,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 182,
         "nombre": "PC-Hernándo",
         "ip": "192.168.1.233",
-        "password": "MdaIoM",
+        "password": "YYd3II",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2545,13 +2726,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 183,
         "nombre": "PC-Higinio",
         "ip": "192.168.1.234",
-        "password": "dH6lwM",
+        "password": "6DZOQD",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2559,13 +2741,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 184,
         "nombre": "PC-Hilario",
         "ip": "192.168.1.235",
-        "password": "e32T5A",
+        "password": "dO4a57",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2573,13 +2756,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 185,
         "nombre": "PC-Hipólito",
         "ip": "192.168.1.236",
-        "password": "tMVu8C",
+        "password": "g2ZKfz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2587,13 +2771,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 186,
         "nombre": "PC-Hiro (given name)",
         "ip": "192.168.1.237",
-        "password": "8VQftT",
+        "password": "oDZ93u",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2601,13 +2786,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 187,
         "nombre": "PC-Horacio",
         "ip": "192.168.1.238",
-        "password": "E2xPau",
+        "password": "DvBe8J",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2615,13 +2801,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 188,
         "nombre": "PC-Huáscar (given name)",
         "ip": "192.168.1.239",
-        "password": "9B8hbC",
+        "password": "uQm0er",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2629,13 +2816,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 189,
         "nombre": "PC-Hugo (name)",
         "ip": "192.168.1.240",
-        "password": "9ObFOt",
+        "password": "ghM5ou",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2643,13 +2831,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 190,
         "nombre": "PC-Humberto",
         "ip": "192.168.1.241",
-        "password": "fLN0gT",
+        "password": "r1HNXJ",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2657,13 +2846,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 191,
         "nombre": "PC-I",
         "ip": "192.168.1.242",
-        "password": "D7y4qt",
+        "password": "G0J21G",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2671,13 +2861,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 192,
         "nombre": "PC-Ignacio",
         "ip": "192.168.1.243",
-        "password": "YpfTBB",
+        "password": "xnXz88",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2685,13 +2876,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 193,
         "nombre": "PC-Inigo",
         "ip": "192.168.1.244",
-        "password": "cqkAjC",
+        "password": "zvrDUx",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2699,13 +2891,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 194,
         "nombre": "PC-Isaac (name)",
         "ip": "192.168.1.245",
-        "password": "RvzNTL",
+        "password": "RXw5CE",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2713,13 +2906,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 195,
         "nombre": "PC-Isaias (given name)",
         "ip": "192.168.1.246",
-        "password": "YxPO5e",
+        "password": "I1OeK0",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2727,13 +2921,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 196,
         "nombre": "PC-Isidoro",
         "ip": "192.168.1.247",
-        "password": "W3C2qw",
+        "password": "gYzoXp",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2741,13 +2936,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 197,
         "nombre": "PC-Isidro",
         "ip": "192.168.1.248",
-        "password": "3CO69J",
+        "password": "cTv949",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2755,13 +2951,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 198,
         "nombre": "PC-J",
         "ip": "192.168.1.249",
-        "password": "Sl2Oik",
+        "password": "zjURGz",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2769,13 +2966,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 199,
         "nombre": "PC-Jacinto",
         "ip": "192.168.1.250",
-        "password": "9VVKCM",
+        "password": "CA8fI8",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2783,13 +2981,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 200,
         "nombre": "PC-Jaime",
         "ip": "192.168.1.251",
-        "password": "zKfSEV",
+        "password": "G0WKz4",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2797,13 +2996,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 201,
         "nombre": "PC-Jairo",
         "ip": "192.168.1.252",
-        "password": "I2DHQ1",
+        "password": "ZEuhgi",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2811,13 +3011,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 202,
         "nombre": "PC-Javier (name)",
         "ip": "192.168.1.253",
-        "password": "wsIsQM",
+        "password": "ZCo3BT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2825,13 +3026,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 203,
         "nombre": "PC-Jerónimo (name)",
         "ip": "192.168.1.254",
-        "password": "iHG9Wp",
+        "password": "pzaXOT",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2839,13 +3041,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 204,
         "nombre": "PC-Jesus (name)",
         "ip": "192.168.1.255",
-        "password": "ZBmUPU",
+        "password": "Z2J0AW",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2853,13 +3056,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 205,
         "nombre": "PC-Jhon",
         "ip": "192.168.1.256",
-        "password": "Ug4fov",
+        "password": "BQ7kP9",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2867,13 +3071,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 206,
         "nombre": "PC-Jimeno",
         "ip": "192.168.1.257",
-        "password": "qMYHrI",
+        "password": "PcVJdM",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2881,13 +3086,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 207,
         "nombre": "PC-Joaquín",
         "ip": "192.168.1.258",
-        "password": "j22qqD",
+        "password": "cXnk62",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2895,13 +3101,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 208,
         "nombre": "PC-Joel (given name)",
         "ip": "192.168.1.259",
-        "password": "JQQKB4",
+        "password": "OpxCCh",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2909,13 +3116,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 209,
         "nombre": "PC-Jorge",
         "ip": "192.168.1.260",
-        "password": "LEbMii",
+        "password": "NgxvIs",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2923,13 +3131,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 210,
         "nombre": "PC-José",
         "ip": "192.168.1.261",
-        "password": "L7AH92",
+        "password": "TAYudj",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2937,13 +3146,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 211,
         "nombre": "PC-José Carlos",
         "ip": "192.168.1.262",
-        "password": "bYwCRR",
+        "password": "Ro2hs1",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2951,13 +3161,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 212,
         "nombre": "PC-José Enrique",
         "ip": "192.168.1.263",
-        "password": "gXIIYP",
+        "password": "8aafLI",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2965,13 +3176,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 213,
         "nombre": "PC-José María",
         "ip": "192.168.1.264",
-        "password": "81UfZd",
+        "password": "9Jn9k9",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2979,13 +3191,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 214,
         "nombre": "PC-José Ramón",
         "ip": "192.168.1.265",
-        "password": "BZT6Ff",
+        "password": "QLJeFg",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -2993,13 +3206,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 215,
         "nombre": "PC-Juan José (given name)",
         "ip": "192.168.1.266",
-        "password": "LHTQ0I",
+        "password": "YR4tl2",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -3007,13 +3221,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 216,
         "nombre": "PC-Josu (name)",
         "ip": "192.168.1.267",
-        "password": "TIJXC4",
+        "password": "dxLVuB",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -3021,13 +3236,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 217,
         "nombre": "PC-Juan",
         "ip": "192.168.1.268",
-        "password": "fqzTEx",
+        "password": "tsgCo0",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -3035,13 +3251,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 218,
         "nombre": "PC-Juanfran",
         "ip": "192.168.1.269",
-        "password": "kKUfNc",
+        "password": "tC3r3n",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -3049,13 +3266,14 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     },
     {
         "alumno": 219,
         "nombre": "PC-Juanma",
         "ip": "192.168.1.270",
-        "password": "E5lrio",
+        "password": "y3DM8m",
         "red": "192.168.1.0",
         "mask": "255.255.255.0",
         "enlace": "192.168.1.1",
@@ -3063,6 +3281,7 @@
             "8.8.8.8",
             "8.8.4.4",
             "1.1.1.1"
-        ]
+        ],
+        "ssid": "kronoAcademyWifi"
     }
 ]
